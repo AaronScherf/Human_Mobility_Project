@@ -1,5 +1,0 @@
-gmia_v5_aei_pct_cellarea		area equipped for irrigation (percentage of total 5 arc-minute grid cell area)
-gmia_v5_aai_pct_aei			area actually irrigated (percentage of area equipped for irrigation)
-gmia_v5_aeigw_pct_aei			area equipped for irrigation with groundwater (percentage of total area equipped for irrigation)
-gmia_v5_aeisw_pct_aei			area equipped for irrigation with surface water (percentage of total area equipped for irrigation)
-gmia_v5_aeinc_pct_aei			area equipped for irrigation with water from non-conventional water sources (percentage of total area equipped for irrigation)
